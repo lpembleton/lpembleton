@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there :wave: 
+#### I'm Luke a Senior Research Scientist from Melbourne, Australia :australia: 
+I enjoy everything :dna: genomics, genomic selection, and R. Give us a shoutout :speech_balloon: if you need any assistance or want to collaborate on anything.
 
 <!--
 **lpembleton/lpembleton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
