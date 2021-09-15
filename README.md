@@ -1,5 +1,5 @@
 ### Hi there :wave: 
-#### I'm Luke a Senior Research Scientist from Melbourne, Australia :australia: 
+#### I'm Luke a Genomic Breeding Scientist & Strategic Science Manager from Melbourne, Australia :australia: 
 I enjoy everything :dna: genomics, :seedling::cow2: genomic selection, and :computer: R. Give us a shoutout :speech_balloon: if you need any assistance or want to collaborate on something.
 
 <!--
