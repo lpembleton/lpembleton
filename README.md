@@ -1,18 +1,18 @@
 ### Hi there :wave: 
-#### I'm Luke a Genomic Breeding Scientist & Global Science Manager for Barenbrug 
-I enjoy everything :dna: genomics, :seedling::cow2: genomic selection, and :computer: R. Give us a shoutout :speech_balloon: if you need any assistance or want to collaborate on something.
+#### I'm Luke a Genomic Breeding Scientist & Global Science Manager for Barenbrug
 
-<!--
-**lpembleton/lpembleton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+<tr>
+<td width="120">
 
-Here are some ideas to get you started:
+<img src="barenbrug_genomics.png" width="180">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</td>
+<td>
+
+I enjoy everything :dna: genomics, :seedling::cow2: genomic selection, :computer: Linux, R and Nextflow. Give us a shoutout :speech_balloon: if you need any assistance or want to collaborate on something.
+
+</td>
+</tr>
+</table>
+
